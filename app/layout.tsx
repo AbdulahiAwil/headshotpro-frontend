@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     description: "Create stunning professional headshots with AI-powered technology. Perfect for LinkedIn, resumes, and professional profiles.",
     images: [
       {
-        url: "/og-image.png",
+        url: "/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "Headshot Pro Build - Professional AI Headshot Generator",
@@ -66,7 +66,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Headshot Pro Build - Professional AI Headshot Generator",
     description: "Create stunning professional headshots with AI-powered technology. Perfect for LinkedIn, resumes, and professional profiles.",
-    images: ["/twitter-image.png"],
+    images: ["/twitter-image.jpg"],
     creator: "@headshotprobuild",
   },
   icons: {
