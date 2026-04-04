@@ -21,7 +21,7 @@ const geistMono = Geist_Mono({
 // };
 
 // Base URL for your site - update this with your actual domain
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://mchamouda.store";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://aamosman10.store";
 
 
 export const metadata: Metadata = {
